@@ -1,3 +1,4 @@
+```mermaid
 gantt
     title Platform Engineering
     dateFormat  MM-DD-YYYY
@@ -14,4 +15,5 @@ gantt
     section Platform Workloads
       UJR Automated Backups      :2022-06-01  , 30d
       Site Image Factory      :2022-07-01, 90d
+```
             
